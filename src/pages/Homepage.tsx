@@ -141,7 +141,7 @@ export default function Homepage() {
               Ready to Transform Your Farm?
             </h2>
             <p className="text-lg text-primary-foreground/80 max-w-2xl mx-auto">
-              Join thousands of farmers who are already using FarmAssist to increase 
+              Join thousands of farmers who are already using Krishi Sakhi to increase 
               their productivity and maximize their yields.
             </p>
           </div>

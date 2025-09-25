@@ -35,7 +35,7 @@ export default function Navigation() {
             <div className="w-8 h-8 bg-primary-foreground rounded-lg flex items-center justify-center">
               <Sprout className="h-5 w-5 text-primary" />
             </div>
-            <span className="text-lg font-bold text-primary-foreground">FarmAssist</span>
+            <span className="text-lg font-bold text-primary-foreground">Krishi Sakhi</span>
           </div>
 
           {/* Desktop Navigation */}
